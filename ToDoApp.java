@@ -36,5 +36,3 @@ public class ToDoApp {
         } while (choice != 4);
 
         scanner.close();
-    }
-}
